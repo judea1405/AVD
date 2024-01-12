@@ -1,4 +1,4 @@
-# AVD (Automated Vulnerabilies detection)
+# AVD (Automated Vulnerabilies Detection)
 Using Joern (https://joern.io) and different methods to automate the detection of vulnerabilities
 
 _First of all what is Joern?_
